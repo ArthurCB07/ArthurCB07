@@ -8,7 +8,7 @@
 
 ## Sobre
 
-Cursando Sistemas de Informação. Faço sites, bots e ferramentas de automação, e nas horas vagas mexo com animação 2D.
+Cursando Sistemas de Informação.
 
 <br>
 
@@ -19,10 +19,6 @@ Cursando Sistemas de Informação. Faço sites, bots e ferramentas de automaçã
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Telegram_Bots-0d0d0d?style=for-the-badge&logo=telegram&logoColor=C1121F" />
-  <img src="https://img.shields.io/badge/TikTok_API-0d0d0d?style=for-the-badge&logo=tiktok&logoColor=C1121F" />
-  <img src="https://img.shields.io/badge/Adobe_Animate-0d0d0d?style=for-the-badge&logo=adobe&logoColor=C1121F" />
-  <img src="https://img.shields.io/badge/Maquinas_Virtuais-0d0d0d?style=for-the-badge&logo=virtualbox&logoColor=C1121F" />
 </p>
 
 <br>
